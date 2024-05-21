@@ -40,6 +40,10 @@ nav p {
 
 }
 
+nav a {
+    color: white;
+}
+
 nav a:visited{
     color: white;
 }
