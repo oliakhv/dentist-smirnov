@@ -114,6 +114,7 @@ nav a:active {
 }
 
 .general p {
+    color: rgb(25, 38, 68);
     font-size: 50px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: rgba(255, 255, 255, 0.8);
@@ -146,6 +147,7 @@ h2 {
     font-size: 60px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 20px 0;
+    color: rgb(25, 38, 68);
 }
 
 p {
@@ -240,6 +242,7 @@ h3 {
     padding-left: 15px;
     margin: 20px 0;
     width: 100%;
+    color: rgb(25, 38, 68);
     background: linear-gradient(270deg, rgba(25, 38, 68, 0.8) 0%,
             rgba(9, 9, 121, 0.6) 20%,
             rgba(43, 170, 255, 0.3) 100%);
