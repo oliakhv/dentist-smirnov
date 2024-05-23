@@ -70,10 +70,6 @@ nav a:active {
     text-decoration: none;
 }
 
-section {
-    position: relative;
-    height: 650px;
-}
 
 #bg {
     position: absolute;
@@ -133,6 +129,7 @@ section {
 
 .short {
     width: 1300px;
+    height: 600px;
 
 }
 
@@ -189,22 +186,22 @@ a:visited {
 }
 
 .skills {
-    border-top: 2px solid grey;
+    padding: 70px 0;
+
     margin-left: -80px;
     margin-right: -80px;
     background: linear-gradient(0deg, rgba(25, 38, 68, 0.8) 0%, rgba(9, 9, 121, 0.6) 20%, rgba(43, 170, 255, 0.3) 100%);
     min-width: 500px;
-    padding-bottom: 30px;
     text-align: center;
 }
 
 .skills h2 {
     text-align: center;
-    margin: 70px 0;
+
 }
 
 .skills ul {
-    margin: 0 15%;
+    margin: 30px 15%;
 }
 
 .skills li {
