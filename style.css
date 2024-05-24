@@ -89,6 +89,7 @@ section {
 .content {
     position: relative;
     width: 100%;
+    padding-top: 100px;
 }
 
 
@@ -138,7 +139,7 @@ section {
 h2 {
     font-size: 60px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin: 20px 0;
+    margin-bottom: 50px;
     color: rgb(25, 38, 68);
 }
 
@@ -202,7 +203,7 @@ a:visited {
     font-size: 25px;
     display: inline-block;
     background-color: rgba(255, 255, 255, 0.7);
-    border: 2px solid grey;
+    border: 2px solid rgb(25, 38, 68);
     border-radius: 10px;
     list-style-type: none;
     padding: 10px 20px;
@@ -224,6 +225,12 @@ a:visited {
 }
 
 
+.lebenslauf, .other {
+    height: fit-content;
+    margin-bottom: 70px;
+}
+
+
 h3 {
     font-size: 30px;
     padding-left: 15px;
@@ -241,8 +248,9 @@ h3 {
 td {
     height: 50px;
     text-align: justify;
-    margin: 10px 0;
+    padding: 10px 0;
     font-size: 20px;
+
 }
 
 .date {
@@ -259,6 +267,10 @@ td {
     font-size: 20px;
     list-style-type: none;
     line-height: 25px;
+}
+
+.info {
+    padding: 100px 200px;
 }
 
 
