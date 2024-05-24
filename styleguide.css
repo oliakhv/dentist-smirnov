@@ -1,0 +1,113 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 60px;
+    font-size: 50px;
+}
+
+section {
+    width: 1000px;
+    margin: 30px auto;
+    border: 2px solid grey;
+    padding: 20px 20px;
+    background-color: rgba(128, 128, 128, 0.438);
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 35px;
+}
+
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    background-color: white;
+    margin-bottom: 50px;
+}
+
+td {
+    border: 1px dotted grey;
+    padding: 15px 10px;
+}
+
+#darkblue {
+    background-color: rgb(25, 38, 68);
+    color: white;
+}
+
+#blue {
+    background-color: rgb(47, 70, 125);
+    color: white;
+}
+
+#white{
+    background-color: white;
+}
+
+#trwhite {
+    background-color: rgba(255, 255, 255, 0.7);
+}
+
+#lightblue {
+    background-color: rgb(90, 183, 220);
+}
+
+#trlightblue {
+    background-color: rgba(47, 70, 125, 0.4);
+}
+
+#standard {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#banner {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#headerp {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-style: italic;
+    line-height: 17px;
+}
+
+#nav {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+#general {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    line-height: 1.4;
+}
+
+#h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+}
+
+#plain {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+#h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
