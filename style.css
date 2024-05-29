@@ -115,12 +115,13 @@ section {
 
 
 /*Banner section*/
-#bg {
-    position: relative;
-    z-index: 0;
-    min-width: 1600px;
-    height: 730px;
-    opacity: 0.8;
+
+
+.banner {
+    min-height: 730px;
+    background-image: url("room.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 
@@ -129,7 +130,7 @@ section {
     position: absolute;
     z-index: 1;
     top: 150px;
-    left: 100px;
+    left: 150px;
     height: 500px;
     width: 500px;
     border: 2px solid rgb(25, 38, 68);
