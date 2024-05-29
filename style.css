@@ -113,11 +113,6 @@ section {
     justify-content: space-between;
 }
 
-.content {
-    position: relative;
-    width: 100%;
-    padding-top: 100px;
-}
 
 /*Banner section*/
 #bg {
@@ -254,6 +249,13 @@ a:visited {
     bottom: 110px;
 }
 
+/*other pages*/
+
+.info {
+    padding: 100px 200px;
+    position: relative;
+    width: 100%;
+}
 
 .lebenslauf,
 .other {
@@ -299,8 +301,6 @@ td {
     line-height: 1.4;
 }
 
-.info {
-    padding: 100px 200px;
-}
+
 
 
